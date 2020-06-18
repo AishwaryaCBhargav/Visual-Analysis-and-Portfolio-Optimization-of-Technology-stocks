@@ -1,5 +1,8 @@
 # Visual-Analysis-and-Portfolio-Optimization-of-Technology-stocks
 
+This is one of my courseworks submitted to complete my MSc in data Science at City, University of London.
+
+
 
 The main aim of this study is to build a portfolio of FAANG stocks with optimal investment
 weightage for each stock, so as to minimise the risk and maximize the returns.
